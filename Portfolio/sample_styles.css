@@ -1,0 +1,49 @@
+.prasad_nav{
+    background-color: #632805;
+}
+.prasad_nav .navbar-brand{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.prasad_nav .navbar-brand:hover{
+    color: wheat;
+}
+.nav_list_items .link-item{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-item a:hover{
+    color: wheat;
+}
+
+/* 
+
+ <!-- ----Navigation Start
+        <nav class="navbar navbar-expand-md navbar-light bg-dark fixed-top">
+            <!-- <div class="container-fluid"> -->
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav mx-auto">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Services</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                  </li>  
+                </ul>
+                
+              </div>
+            <!-- </div> -->
+          </nav>
+ -->
+
+*/
